@@ -25,11 +25,17 @@ debugger
 
 ## Subir a git
 
+```
 git add .
+
 git commit -m "Fin demo 1"
+
 git remote add origin https://github.com/jcvaldes/ionic-primera-app.git
+
 git branch -M master
+
 git push -u origin master
+```
 
 Si borro algo accidentalmente puedo volver a recuperarlo con 
 git checkout -- .
