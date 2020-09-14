@@ -3,9 +3,9 @@
 https://ionicframework.com/
 
 ## iniciar proyecto
-
+```
 ionic start my-app tabs
-
+```
 ## Capacitor 
 
 sirve para agregar caracteristicas nativas como: camara, gps
