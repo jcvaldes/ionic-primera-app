@@ -2,7 +2,7 @@
 
 https://ionicframework.com/
 
-## iniciar proyecto
+## Iniciar proyecto
 ```
 ionic start my-app tabs
 ```
@@ -12,10 +12,12 @@ sirve para agregar caracteristicas nativas como: camara, gps
 
 ## Levantar un servidor 
 
+```
 ionic serve
+
 ionic serve --lab
  Install @ionic/lab? Yes
-
+```
 ## Snippet
 ipad agrega un padding
 
